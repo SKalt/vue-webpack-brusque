@@ -1,4 +1,5 @@
 template/test/unit/specs/HelloWorld.spec.js merge=ours
 template/src/components/HelloWorld.vue merge=ours
+template/src/App.vue merge=ours
 template/.templates/* merge=ours
 README.md merge=ours
